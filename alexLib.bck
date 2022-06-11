@@ -1,0 +1,46 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EFR32BG21
+D BLE MCU
+F https://www.silabs.com/documents/public/data-sheets/efr32bg21-datasheet.pdf
+$ENDCMP
+#
+$CMP M3406
+F https://datasheet.lcsc.com/lcsc/1811151539_XI-AN-Aerosemi-Tech-M3406-ADJ_C83224.pdf
+$ENDCMP
+#
+$CMP ME2188
+F https://datasheet.lcsc.com/lcsc/1809041040_MICRONE-Nanjing-Micro-One-Elec-ME2188C50M5G_C236768.pdf
+$ENDCMP
+#
+$CMP Motor_Vibration
+D DC Motor
+K DC Motor
+F ~
+$ENDCMP
+#
+$CMP SLLB5
+D Switch, three position, single pole triple throw, 3 position switch, SP3T
+K switch sp3t ON-ON-ON
+F ~
+$ENDCMP
+#
+$CMP TPESD05V14T-LC
+D Ultra low capacitance double rail-to-rail ESD protection diode, SOT-143
+K ESD protection diode
+F https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf
+$ENDCMP
+#
+$CMP WS2812B_2020
+D RGB LED with integrated controller
+K RGB LED NeoPixel addressable
+F https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+$ENDCMP
+#
+$CMP nRF52833
+D Multiprotocol BLE/ANT/2.4 GHz/802.15.4 Cortex-M4F SoC, AQFN-73
+K MCU, ARM, BLE, ANT, 2.4GHz, 802.15.4
+F https://infocenter.nordicsemi.com/pdf/nRF52833_PS_v1.5.pdf
+$ENDCMP
+#
+#End Doc Library
